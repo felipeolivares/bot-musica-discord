@@ -1,5 +1,5 @@
 # bot-musica-discord
-Bot simples de música para servidor do discord.
+Bot de música para servidor do discord.
 
 Funcionalidades atuais:
 
